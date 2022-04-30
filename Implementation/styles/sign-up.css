@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.sign-container{
+    width: 450px;
+    height: 700px;
+    background-color:rgb(14, 14, 119);
+    margin: auto;
+    
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+input{
+    width: 300px;
+    margin-left: 50px; 
+    height: 50px;
+    margin-top: 30px;
+}
+#checkbox{
+    width: 20px;
+     
+}
+.checkgroup{
+    display: flex;
+    align-items: center;
+}
+
+#remember{
+    padding-bottom:20px ;
+    padding-left: 80px;
+
+}
+button{
+    padding: 8px 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: black;
+    border: 1px solid #fff;
+    background-color: white;
+    transition: all 0.3s ease-out;
+    font-size: 20px;
+    margin: auto;
+    width: 300px;
+    
+}
+#another-account{
+    color: honeydew;
+    margin-left: 10px;
+    font-size: 20px;
+    text-decoration: turquoise;
+}
+span{
+    color: white;
+}
